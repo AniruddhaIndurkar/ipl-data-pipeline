@@ -23,7 +23,8 @@ Commands to Run:
 `npm run test`
 `cdk synth`
 `cdk deploy`
-
+## Architecture
+![Architecture](Architecture.png)
 
 ## Approach:
 
